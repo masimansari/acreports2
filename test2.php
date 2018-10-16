@@ -9,5 +9,8 @@ echo "This is PHP output.";
 </head>
 
 <body>
+	<div>
+		<h2>Heading 2</h2>
+	</div>
 </body>
 </html>
