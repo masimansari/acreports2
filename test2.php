@@ -21,5 +21,9 @@ echo "This is PHP output.";
 	<div>
 		<h5>Heading 5</h5>
 	</div>
+	
+	<div>
+		<p>This is new testing message.</p>
+	</div>
 </body>
 </html>
