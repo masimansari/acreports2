@@ -5,7 +5,7 @@ echo "This is PHP output.";
 <html>
 <head>
 <meta charset="utf-8">
-<title>Untitled Document</title>
+<title>Test Page 2</title>
 </head>
 
 <body>
