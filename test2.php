@@ -12,5 +12,8 @@ echo "This is PHP output.";
 	<div>
 		<h2>Heading 2</h2>
 	</div>
+	<div>
+		<h3>Heading 3</h3>
+	</div>
 </body>
 </html>
