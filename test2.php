@@ -28,5 +28,8 @@ echo "This is PHP output.";
 	<div>
 		<p>This is second testing message.</p>
 	</div>
+	<div>
+		<p>This is third testing message.</p>
+	</div>
 </body>
 </html>
